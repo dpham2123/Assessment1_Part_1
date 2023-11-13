@@ -1,4 +1,7 @@
 /*form starts*/
+body{
+  background-color: #04AA6D;
+}
 section{
     max-width: 50%;
     margin: auto;
